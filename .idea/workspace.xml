@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63f0fa80-2f67-471d-af35-08f37314c087" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/bluesky.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cowsettings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gamecharacter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gamecharacter_pygame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings_rocket.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bullet.py" beforeDir="false" afterPath="$PROJECT_DIR$/bullet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/alien_invasion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
