@@ -10,7 +10,7 @@ class Rocket:
         self.settings = r_game.settings
         self.screen_rect = r_game.screen.get_rect()
 
-        self.image = pygame.image.load('images/red_rocketsmall.bmp')
+        self.image = pygame.image.load('images/rocketred.png')
         self.rect = self.image.get_rect()
 
         # Start each new rocket at the center of the screen.

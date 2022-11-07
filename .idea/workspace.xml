@@ -2,15 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63f0fa80-2f67-471d-af35-08f37314c087" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/bluesky.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowsettings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gamecharacter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gamecharacter_pygame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rocket.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rocket_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings_rocket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bullet2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/key_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settingssideways.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ship2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sideways_shooter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cowsettings.py" beforeDir="false" afterPath="$PROJECT_DIR$/birdsettings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gamecharacter.py" beforeDir="false" afterPath="$PROJECT_DIR$/bird.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gamecharacter_pygame.py" beforeDir="false" afterPath="$PROJECT_DIR$/bluebird_game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rocket.py" beforeDir="false" afterPath="$PROJECT_DIR$/rocket.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,5 +64,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bluebird_game.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
