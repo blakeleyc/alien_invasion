@@ -11,7 +11,7 @@ class Star(Sprite):
         self.screen = stars_game.screen
 
 
-        self.image = pygame.image.load('images/brightstar.png')
+        self.image = pygame.image.load('images/blackstar.png')
         self.rect = self.image.get_rect()
 
         # Start each new star near the top left of the screen.
