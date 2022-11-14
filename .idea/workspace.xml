@@ -2,16 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63f0fa80-2f67-471d-af35-08f37314c087" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/bullet2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/key_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settingssideways.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ship2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sideways_shooter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alien.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bulletalieninvasion2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game_stats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raindrop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raindrop_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raindrops_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settingsrain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settingssideways2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shipalieninvasion2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shipalieninvasion3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sidewaysshooter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sidewaysshooterstats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stars_game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cowsettings.py" beforeDir="false" afterPath="$PROJECT_DIR$/birdsettings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gamecharacter.py" beforeDir="false" afterPath="$PROJECT_DIR$/bird.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gamecharacter_pygame.py" beforeDir="false" afterPath="$PROJECT_DIR$/bluebird_game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rocket.py" beforeDir="false" afterPath="$PROJECT_DIR$/rocket.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
